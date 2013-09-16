@@ -1,0 +1,10 @@
+C:\Development\polygami\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Development\polygami\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Development\polygami\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Development\polygami\Temp\bin\Debug\UnityEditor.dll
+C:\Development\polygami\Temp\bin\Debug\UnityEngine.dll
+C:\Development\polygami\Temp\bin\Debug\Mono.Cecil.dll
+C:\Development\polygami\Temp\bin\Debug\nunit.framework.dll
+C:\Development\polygami\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Development\polygami\obj\Debug\Assembly-CSharp.dll
+C:\Development\polygami\obj\Debug\Assembly-CSharp.pdb
