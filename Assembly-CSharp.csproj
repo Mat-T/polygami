@@ -44,6 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ChangeTexture.cs" />
      <Compile Include="Assets\Handle.cs" />
   </ItemGroup>
   <ItemGroup>

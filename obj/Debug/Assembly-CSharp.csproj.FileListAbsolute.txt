@@ -8,3 +8,6 @@ C:\Development\polygami\Temp\bin\Debug\nunit.framework.dll
 C:\Development\polygami\Temp\bin\Debug\ICSharpCode.NRefactory.dll
 C:\Development\polygami\obj\Debug\Assembly-CSharp.dll
 C:\Development\polygami\obj\Debug\Assembly-CSharp.pdb
+C:\Users\M\Documents\GitHub\polygami\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\M\Documents\GitHub\polygami\obj\Debug\Assembly-CSharp.dll
+C:\Users\M\Documents\GitHub\polygami\obj\Debug\Assembly-CSharp.pdb
