@@ -37,6 +37,7 @@ public class Handle : MonoBehaviour {
             if (animTime >= this.transform.parent.animation["grow"].length)
             {
                 animTime = this.transform.parent.animation["grow"].length;
+                renderer.enabled = false;
             }
             
         }
