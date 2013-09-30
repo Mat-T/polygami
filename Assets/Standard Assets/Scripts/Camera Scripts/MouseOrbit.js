@@ -10,9 +10,12 @@ var yMaxLimit = 140;
 private var x = 0.0;
 private var y = 0.0;
 
+var stateManager;
+
 @script AddComponentMenu("Camera-Control/Mouse Orbit")
 
 function Start () {
+	stateManager = GameObject.Find("goStateManager").GetComponent("StateManager");
     var angles = transform.eulerAngles;
     x = angles.y;
     y = angles.x;
@@ -30,7 +33,7 @@ function Start () {
 
 function Update () {
     if (target) {
-     	if (Input.GetMouseButton(0)) {
+     	if (Input.GetMouseButton(0) && !stateManager.lockCamera) {
         x += Input.GetAxis("Mouse X") * xSpeed * 0.02;
         y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02;
  		
